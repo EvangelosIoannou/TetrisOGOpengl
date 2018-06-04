@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\evangelos\desktop\glutgame - proper link - tetris og - copy\glutgame\main.cpp(779): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\evangelos\desktop\glutgame - proper link - tetris og - copy\glutgame\main.cpp(780): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\evangelos\desktop\glutgame - proper link - tetris og - copy\glutgame\main.cpp(781): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\evangelos\desktop\glutgame - proper link - tetris og - copy\glutgame\main.cpp(800): warning C4553: '==': operator has no effect; did you intend '='?
+  GLUTGame.vcxproj -> C:\Users\Evangelos\Desktop\GLUTGame - Proper Link - Tetris OG - Copy\Debug\GLUTGame.exe
