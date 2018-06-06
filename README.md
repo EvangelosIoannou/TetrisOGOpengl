@@ -10,6 +10,6 @@ W A S D         Rotate game world
 
 1 2 3           Rotate blocks
 
--               Zoom out
+'-'               Zoom out
 
-=               Zoom in
+'='               Zoom in
